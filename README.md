@@ -3,7 +3,7 @@
 This repository contains the open-source uptime monitor and status page for [OJN666](https://OJN666.github.io/server-status), powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/OJN666/server-status/workflows/Uptime%20CI/badge.svg)](https://github.com/OJN666/server-status/actions?query=workflow%3A%22Uptime+CI%22)
-[![Update Time CI](https://github.com/OJN666/server-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/OJN666/server-status/actions?query=workflow%3A%22updates+CI%22)
+[![Update Time CI](https://github.com/OJN666/server-status/workflows/Updates%20Time%20CI/badge.svg)](https://github.com/OJN666/server-status/actions?query=workflow%3A%22updates+CI%22)
 
 [![Response Time CI](https://github.com/OJN666/server-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/OJN666/server-status/actions?query=workflow%3A%22Response+Time+CI%22)
 
