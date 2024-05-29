@@ -26,6 +26,7 @@ sites:
 
 
 status-website:
+  favicon: https://raw.githubusercontent.com/OJN666/server-status/master/assets/logo.png
   theme: night
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
