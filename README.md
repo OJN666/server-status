@@ -23,7 +23,6 @@ This repository contains the open-source uptime monitor and status page.
 
 <!--end: status pages-->
 
-[**Visit our status website →**](https://OJN666.github.io/server-status)
 
 ## 📄 License
 
