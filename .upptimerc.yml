@@ -4,20 +4,20 @@ repo: server-status # The name of this repository
 
 sites:
   - name: PPDB-Marone
-    url: $PPDBMARONE
     check: "tcp-ping"
+    url: $PPDBMARONE
     port: 443
   - name: Marone
-    url: $MARONE
     check: "tcp-ping"
+    url: $MARONE
     port: 443
   - name: PAS
-    url: $PAS
     check: "tcp-ping"
+    url: $PAS
     port: 443
   - name: Darkevo
-    url: $DARKEVO
-    check: "tcp-ping" 
+    check: "tcp-ping"
+    url: $DARKEVO 
     port: 443
    # expectedStatusCodes:
     #  - 200
