@@ -1,6 +1,6 @@
 # [📈 Status](https://OJN666.github.io/server-status): <!--live status--> **🟩 All systems operational**
 
-This repository contains the open-source uptime monitor and status page for [OJN666](https://OJN666.github.io/server-status), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page.
 
 [![Uptime CI](https://github.com/OJN666/server-status/workflows/Uptime%20CI/badge.svg)](https://github.com/OJN666/server-status/actions?query=workflow%3A%22Uptime+CI%22)
 [![Update Time CI](https://github.com/OJN666/server-status/workflows/Updates%20CI/badge.svg)](https://github.com/OJN666/server-status/actions?query=workflow%3A%22updates+CI%22)
