@@ -1,7 +1,7 @@
 url: $PPDBMARONE
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2024-06-22T09:49:30.123Z
+status: up
+code: 200
+responseTime: 190
+lastUpdated: 2024-06-22T10:21:35.091Z
 startTime: 2024-05-29T07:12:27.789Z
 generator: Upptime <https://github.com/upptime/upptime>
