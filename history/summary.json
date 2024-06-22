@@ -4,19 +4,19 @@
     "url": "$PPDBMARONE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "ppdb-marone",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "96.69%",
-    "uptimeWeek": "99.53%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "96.57%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 312,
-    "timeDay": 337,
+    "timeDay": 335,
     "timeWeek": 312,
     "timeMonth": 312,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2024-06-22": 48
+      "2024-06-22": 49
     }
   },
   {
@@ -31,7 +31,7 @@
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
     "time": 307,
-    "timeDay": 344,
+    "timeDay": 345,
     "timeWeek": 313,
     "timeMonth": 307,
     "timeYear": 307,
